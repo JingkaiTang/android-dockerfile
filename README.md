@@ -1,2 +1,2 @@
-# android-dockerfile
-Docker for Android
+# Oracle JDK 8
+
